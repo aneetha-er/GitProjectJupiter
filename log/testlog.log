@@ -1,0 +1,135 @@
+2022-03-07 22:23:42,271 - Recruitment Portal -INFO - URL is opened
+2022-03-07 22:23:55,243 - Recruitment Portal -INFO - Unable to enter username:aneetha_entoor
+2022-03-07 22:23:55,244 - Recruitment Portal -INFO - Automated username
+2022-03-07 22:24:05,293 - Recruitment Portal -INFO - Unable to enter PasswordMeritus@123
+2022-03-07 22:24:05,355 - Recruitment Portal -INFO - Automated password
+2022-03-07 22:24:15,468 - Recruitment Portal -INFO - Unable to Click on login button
+2022-03-07 22:24:15,469 - Recruitment Portal -INFO - Automated Login Button
+2022-03-07 22:24:25,493 - Recruitment Portal -INFO - Login test failed
+2022-03-07 22:24:25,576 - Recruitment Portal -INFO - Automated- Login TestCase
+2022-03-07 22:25:25,599 - Recruitment Portal -INFO - URL is opened
+2022-03-07 22:25:39,576 - Recruitment Portal -INFO - Unable to enter username:aneetha_entoor
+2022-03-07 22:25:39,577 - Recruitment Portal -INFO - Automated username
+2022-03-07 22:25:49,769 - Recruitment Portal -INFO - Unable to enter PasswordMeritus@123
+2022-03-07 22:25:50,283 - Recruitment Portal -INFO - Automated password
+2022-03-07 22:25:52,361 - Recruitment Portal -INFO - Clicked on login button
+2022-03-07 22:25:52,363 - Recruitment Portal -INFO - Automated Login Button
+2022-03-07 22:26:02,479 - Recruitment Portal -INFO - Login test failed
+2022-03-07 22:26:02,821 - Recruitment Portal -INFO - Automated- Login TestCase
+2022-03-08 09:13:36,221 - Recruitment Portal -INFO - URL is opened
+2022-03-08 09:13:49,099 - Recruitment Portal -INFO - Not Able to click on Contact
+2022-03-08 09:17:07,641 - Recruitment Portal -INFO - URL is opened
+2022-03-08 09:17:10,779 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 09:17:10,783 - Recruitment Portal -INFO - Automated Contact Header
+2022-03-08 09:17:11,787 - Recruitment Portal -INFO - Clicked on btnSubmit
+2022-03-08 09:17:11,788 - Recruitment Portal -INFO - Automated Submit
+2022-03-08 09:17:11,889 - Recruitment Portal -INFO - Not able to Enter Feedback in-Contact
+2022-03-08 09:17:11,890 - Recruitment Portal -INFO - Automated- Login TestCase
+2022-03-08 09:17:11,957 - Recruitment Portal -INFO - Populated Mandatory Text-Forename is required
+2022-03-08 09:17:11,958 - Recruitment Portal -INFO - Automated- populate Forname
+2022-03-08 09:17:11,999 - Recruitment Portal -INFO - Populated Mandatory Text-Email Required
+2022-03-08 09:17:11,999 - Recruitment Portal -INFO - Automated- populate Email
+2022-03-08 09:17:12,045 - Recruitment Portal -INFO - Populated Mandatory-Message
+2022-03-08 09:17:12,045 - Recruitment Portal -INFO - Automated- populate Message
+2022-03-08 09:51:39,937 - Recruitment Portal -INFO - URL is opened
+2022-03-08 09:51:43,223 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 09:51:43,244 - Recruitment Portal -INFO - Automated Contact Header
+2022-03-08 09:51:49,927 - Recruitment Portal -INFO - Clicked on btnSubmit:
+2022-03-08 09:51:49,929 - Recruitment Portal -INFO - Automated Submit
+2022-03-08 09:51:50,057 - Recruitment Portal -INFO - Not able to Enter Feedback in-Contact:We welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 09:51:50,058 - Recruitment Portal -INFO - Automated- validateERROR
+2022-03-08 09:51:50,123 - Recruitment Portal -INFO - Populated Mandatory Text-Forename is required:Forename is required
+2022-03-08 09:51:50,124 - Recruitment Portal -INFO - Automated- populate Mandatory text Forname
+2022-03-08 09:51:50,164 - Recruitment Portal -INFO - Populated Mandatory Text-Email Required:Email is required
+2022-03-08 09:51:50,165 - Recruitment Portal -INFO - Automated- populate Mandatory text  Email
+2022-03-08 09:51:50,208 - Recruitment Portal -INFO - Populated Mandatory-Message:Message is required
+2022-03-08 09:51:50,209 - Recruitment Portal -INFO - Automated- populate Mandatory text  Message
+2022-03-08 09:51:50,614 - Recruitment Portal -INFO - Entered data in textBox:txtForeName
+2022-03-08 09:51:50,919 - Recruitment Portal -INFO - Entered data in textBox:txtSurName
+2022-03-08 09:51:51,255 - Recruitment Portal -INFO - Entered data in textBox:txtEmail
+2022-03-08 09:51:51,570 - Recruitment Portal -INFO - Entered data in textBox:txtTelepnone
+2022-03-08 09:51:51,858 - Recruitment Portal -INFO - Entered data in textBox:txtMessage
+2022-03-08 09:51:55,943 - Recruitment Portal -INFO - Automated- Submitting contact Details
+2022-03-08 09:52:06,613 - Recruitment Portal -INFO - Unsuccessful-Creation of contact
+2022-03-08 10:01:53,311 - Recruitment Portal -INFO - URL is opened
+2022-03-08 10:01:56,383 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 10:01:56,401 - Recruitment Portal -INFO - Automated Contact Header /n
+2022-03-08 10:02:02,215 - Recruitment Portal -INFO - Clicked on btnSubmit:
+2022-03-08 10:02:02,216 - Recruitment Portal -INFO - Automated Submit  /n
+2022-03-08 10:02:02,281 - Recruitment Portal -INFO - Not able to Enter Feedback in-Contact:We welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 10:02:02,282 - Recruitment Portal -INFO - Automated- validateERROR
+2022-03-08 10:02:02,376 - Recruitment Portal -INFO - Populated Mandatory Text-Forename is required:Forename is required
+2022-03-08 10:02:02,378 - Recruitment Portal -INFO - Automated- populate Mandatory text Forname
+2022-03-08 10:02:02,426 - Recruitment Portal -INFO - Populated Mandatory Text-Email Required:Email is required
+2022-03-08 10:02:02,426 - Recruitment Portal -INFO - Automated- populate Mandatory text  Email
+2022-03-08 10:02:02,471 - Recruitment Portal -INFO - Populated Mandatory-Message:Message is required
+2022-03-08 10:02:02,472 - Recruitment Portal -INFO - Automated- populate Mandatory text  Message
+2022-03-08 10:02:03,441 - Recruitment Portal -INFO - Entered data in textBox:txtForeName
+2022-03-08 10:02:03,697 - Recruitment Portal -INFO - Entered data in textBox:txtSurName
+2022-03-08 10:02:04,170 - Recruitment Portal -INFO - Entered data in textBox:txtEmail
+2022-03-08 10:02:04,512 - Recruitment Portal -INFO - Entered data in textBox:txtTelepnone
+2022-03-08 10:02:04,832 - Recruitment Portal -INFO - Entered data in textBox:txtMessage
+2022-03-08 10:02:08,965 - Recruitment Portal -INFO - Automated- Submitting contact Details
+2022-03-08 10:02:10,386 - Recruitment Portal -INFO - Successfully Created ContactThanks NameTest, we appreciate your feedback.
+2022-03-08 10:02:10,387 - Recruitment Portal -INFO - Automated- Validated Creating Contact
+2022-03-08 11:33:43,830 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:33:47,539 - Recruitment Portal -INFO - Clicked on Shop
+2022-03-08 11:33:47,554 - Recruitment Portal -INFO - Automated Shop In Header
+2022-03-08 11:33:51,443 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow
+2022-03-08 11:33:51,444 - Recruitment Portal -INFO - Automated Click on Fluffy Cow
+2022-03-08 11:33:54,754 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow
+2022-03-08 11:33:54,842 - Recruitment Portal -INFO - Automated Click on Fluffy Bunny
+2022-03-08 11:38:35,102 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:38:39,081 - Recruitment Portal -INFO - Clicked on Shop
+2022-03-08 11:38:39,084 - Recruitment Portal -INFO - Automated Shop In Header
+2022-03-08 11:38:42,780 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow 
+2022-03-08 11:38:45,892 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow 
+2022-03-08 11:38:45,893 - Recruitment Portal -INFO - Automated Click on Fluffy Cow
+2022-03-08 11:38:46,053 - Recruitment Portal -INFO - Clicked on btnBuyFluffyBunny
+2022-03-08 11:38:46,056 - Recruitment Portal -INFO - Automated Click on Fluffy Bunny
+2022-03-08 11:47:15,239 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:47:18,131 - Recruitment Portal -INFO - Clicked on Shop
+2022-03-08 11:47:18,138 - Recruitment Portal -INFO - Automated Click on Shop 
+2022-03-08 11:47:21,594 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow 
+2022-03-08 11:47:24,675 - Recruitment Portal -INFO - Clicked on btnBuyFluffyCow 
+2022-03-08 11:47:24,676 - Recruitment Portal -INFO - Automated Click on Fluffy Cow
+2022-03-08 11:47:24,846 - Recruitment Portal -INFO - Clicked on btnBuyFluffyBunny
+2022-03-08 11:47:24,847 - Recruitment Portal -INFO - Automated Click on Fluffy Bunny
+2022-03-08 11:47:25,060 - Recruitment Portal -INFO - Clicked on Cart
+2022-03-08 11:47:25,061 - Recruitment Portal -INFO - Automated Click on Cart
+2022-03-08 11:47:25,176 - Recruitment Portal -INFO - Cow and Bunny Items added in the cart
+2022-03-08 11:47:25,177 - Recruitment Portal -INFO - Automated Items are Displayed in card or not
+2022-03-08 11:49:58,575 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:50:02,824 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 11:50:02,892 - Recruitment Portal -INFO - Automated Contact In Header
+2022-03-08 11:50:09,339 - Recruitment Portal -INFO - Entered data in textBox:txtForeName
+2022-03-08 11:50:09,603 - Recruitment Portal -INFO - Entered data in textBox:txtEmail
+2022-03-08 11:50:09,926 - Recruitment Portal -INFO - Entered data in textBox:txtMessage
+2022-03-08 11:50:14,167 - Recruitment Portal -INFO - Automated INVALID DATA
+2022-03-08 11:50:14,356 - Recruitment Portal -INFO - Validated Error MessageWe welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 11:50:14,357 - Recruitment Portal -INFO - Automated- validateERROR
+2022-03-08 11:55:37,317 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:55:40,280 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 11:55:40,284 - Recruitment Portal -INFO - Automated Contact In Header
+2022-03-08 11:55:41,270 - Recruitment Portal -INFO - Entered data in textBox:txtForeName
+2022-03-08 11:55:41,556 - Recruitment Portal -INFO - Entered data in textBox:txtSurName
+2022-03-08 11:55:41,901 - Recruitment Portal -INFO - Entered data in textBox:txtEmail
+2022-03-08 11:55:42,217 - Recruitment Portal -INFO - Entered data in textBox:txtTelepnone
+2022-03-08 11:55:42,503 - Recruitment Portal -INFO - Entered data in textBox:txtMessage
+2022-03-08 11:55:46,702 - Recruitment Portal -INFO - Automated- Submitting contact Details
+2022-03-08 11:55:49,577 - Recruitment Portal -INFO - Successfully Created ContactThanks NameTestTen, we appreciate your feedback.
+2022-03-08 11:55:49,581 - Recruitment Portal -INFO - Automated- Validated Creating Contact
+2022-03-08 11:58:05,178 - Recruitment Portal -INFO - URL is opened
+2022-03-08 11:58:08,544 - Recruitment Portal -INFO - Clicked on Contact
+2022-03-08 11:58:08,570 - Recruitment Portal -INFO - Automated Click on Contact
+2022-03-08 11:58:14,627 - Recruitment Portal -INFO - Clicked on btnSubmit:
+2022-03-08 11:58:14,629 - Recruitment Portal -INFO - Automated Click on Submit
+2022-03-08 11:58:14,704 - Recruitment Portal -INFO - Validated Error Message:We welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 11:58:14,705 - Recruitment Portal -INFO - Automated- validateERROR
+2022-03-08 11:58:14,757 - Recruitment Portal -INFO - Populated Mandatory Text:Forename is required
+2022-03-08 11:58:14,757 - Recruitment Portal -INFO - Automated- populate Mandatory text Forname
+2022-03-08 11:58:14,793 - Recruitment Portal -INFO - Populated Mandatory Text:Email is required
+2022-03-08 11:58:14,794 - Recruitment Portal -INFO - Automated- populate Mandatory text  Email
+2022-03-08 11:58:14,837 - Recruitment Portal -INFO - Populated Mandatory Text:Message is required
+2022-03-08 11:58:14,837 - Recruitment Portal -INFO - Automated- populate Mandatory text  Message
+2022-03-08 11:58:57,728 - Recruitment Portal -INFO - Unsuccessful-Alert Info

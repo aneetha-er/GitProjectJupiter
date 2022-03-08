@@ -1,0 +1,61 @@
+2022-03-08 11:33:43,830 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:33:47,539 [main] INFO Recruitment Portal - Clicked on Shop
+2022-03-08 11:33:47,554 [main] INFO Recruitment Portal - Automated Shop In Header
+2022-03-08 11:33:51,443 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow
+2022-03-08 11:33:51,444 [main] INFO Recruitment Portal - Automated Click on Fluffy Cow
+2022-03-08 11:33:54,754 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow
+2022-03-08 11:33:54,842 [main] INFO Recruitment Portal - Automated Click on Fluffy Bunny
+2022-03-08 11:38:35,102 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:38:39,081 [main] INFO Recruitment Portal - Clicked on Shop
+2022-03-08 11:38:39,084 [main] INFO Recruitment Portal - Automated Shop In Header
+2022-03-08 11:38:42,780 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow 
+2022-03-08 11:38:45,892 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow 
+2022-03-08 11:38:45,893 [main] INFO Recruitment Portal - Automated Click on Fluffy Cow
+2022-03-08 11:38:46,053 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyBunny
+2022-03-08 11:38:46,056 [main] INFO Recruitment Portal - Automated Click on Fluffy Bunny
+2022-03-08 11:47:15,239 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:47:18,131 [main] INFO Recruitment Portal - Clicked on Shop
+2022-03-08 11:47:18,138 [main] INFO Recruitment Portal - Automated Click on Shop 
+2022-03-08 11:47:21,594 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow 
+2022-03-08 11:47:24,675 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyCow 
+2022-03-08 11:47:24,676 [main] INFO Recruitment Portal - Automated Click on Fluffy Cow
+2022-03-08 11:47:24,846 [main] INFO Recruitment Portal - Clicked on btnBuyFluffyBunny
+2022-03-08 11:47:24,847 [main] INFO Recruitment Portal - Automated Click on Fluffy Bunny
+2022-03-08 11:47:25,060 [main] INFO Recruitment Portal - Clicked on Cart
+2022-03-08 11:47:25,061 [main] INFO Recruitment Portal - Automated Click on Cart
+2022-03-08 11:47:25,176 [main] INFO Recruitment Portal - Cow and Bunny Items added in the cart
+2022-03-08 11:47:25,177 [main] INFO Recruitment Portal - Automated Items are Displayed in card or not
+2022-03-08 11:49:58,575 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:50:02,824 [main] INFO Recruitment Portal - Clicked on Contact
+2022-03-08 11:50:02,892 [main] INFO Recruitment Portal - Automated Contact In Header
+2022-03-08 11:50:09,339 [main] INFO Recruitment Portal - Entered data in textBox:txtForeName
+2022-03-08 11:50:09,603 [main] INFO Recruitment Portal - Entered data in textBox:txtEmail
+2022-03-08 11:50:09,926 [main] INFO Recruitment Portal - Entered data in textBox:txtMessage
+2022-03-08 11:50:14,167 [main] INFO Recruitment Portal - Automated INVALID DATA
+2022-03-08 11:50:14,356 [main] INFO Recruitment Portal - Validated Error MessageWe welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 11:50:14,357 [main] INFO Recruitment Portal - Automated- validateERROR
+2022-03-08 11:55:37,317 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:55:40,280 [main] INFO Recruitment Portal - Clicked on Contact
+2022-03-08 11:55:40,284 [main] INFO Recruitment Portal - Automated Contact In Header
+2022-03-08 11:55:41,270 [main] INFO Recruitment Portal - Entered data in textBox:txtForeName
+2022-03-08 11:55:41,556 [main] INFO Recruitment Portal - Entered data in textBox:txtSurName
+2022-03-08 11:55:41,901 [main] INFO Recruitment Portal - Entered data in textBox:txtEmail
+2022-03-08 11:55:42,217 [main] INFO Recruitment Portal - Entered data in textBox:txtTelepnone
+2022-03-08 11:55:42,503 [main] INFO Recruitment Portal - Entered data in textBox:txtMessage
+2022-03-08 11:55:46,702 [main] INFO Recruitment Portal - Automated- Submitting contact Details
+2022-03-08 11:55:49,577 [main] INFO Recruitment Portal - Successfully Created ContactThanks NameTestTen, we appreciate your feedback.
+2022-03-08 11:55:49,581 [main] INFO Recruitment Portal - Automated- Validated Creating Contact
+2022-03-08 11:58:05,178 [main] INFO Recruitment Portal - URL is opened
+2022-03-08 11:58:08,544 [main] INFO Recruitment Portal - Clicked on Contact
+2022-03-08 11:58:08,570 [main] INFO Recruitment Portal - Automated Click on Contact
+2022-03-08 11:58:14,627 [main] INFO Recruitment Portal - Clicked on btnSubmit:
+2022-03-08 11:58:14,629 [main] INFO Recruitment Portal - Automated Click on Submit
+2022-03-08 11:58:14,704 [main] INFO Recruitment Portal - Validated Error Message:We welcome your feedback - but we won't get it unless you complete the form correctly.
+2022-03-08 11:58:14,705 [main] INFO Recruitment Portal - Automated- validateERROR
+2022-03-08 11:58:14,757 [main] INFO Recruitment Portal - Populated Mandatory Text:Forename is required
+2022-03-08 11:58:14,757 [main] INFO Recruitment Portal - Automated- populate Mandatory text Forname
+2022-03-08 11:58:14,793 [main] INFO Recruitment Portal - Populated Mandatory Text:Email is required
+2022-03-08 11:58:14,794 [main] INFO Recruitment Portal - Automated- populate Mandatory text  Email
+2022-03-08 11:58:14,837 [main] INFO Recruitment Portal - Populated Mandatory Text:Message is required
+2022-03-08 11:58:14,837 [main] INFO Recruitment Portal - Automated- populate Mandatory text  Message
+2022-03-08 11:58:57,728 [main] INFO Recruitment Portal - Unsuccessful-Alert Info
